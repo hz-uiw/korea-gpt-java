@@ -25,7 +25,7 @@ public class InventorySystem {
                 // scanner.nextLine();
                 // : 입력값이 문자열로 인식
 
-                // Integer. parseInt(데이터);
+                // Integer.parseInt(데이터);
                 // : 데이터를 분석하여 Int형태로 변경
                 // 숫자형태로 변경할 수 없는 값이 입력되는 경우 NumberFormatException 예외 발생
                 // parse :  분석하다
